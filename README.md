@@ -5,7 +5,7 @@ A chat app made using **Reactjs** library for frond end, and
 
 
 This project helps improve your understanding about APIs and also, is an indermediate level of project 
-which requires decent amount of knowledge about reactjs, apis handling and frontend skills. 
+which requires decent amount of knowledge about reactjs, api handling and frontend skills. 
 
 
 **Note**: to start working with this project you need to first register yourself with chatengine.io, to access the api key.
